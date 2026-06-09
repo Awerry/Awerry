@@ -1,6 +1,6 @@
 ## Привет! :sunglasses:
 
-<img align="right" width="350" height="350" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
+<img align="right" width="350" height="350" src="https://github.com/Awerry/Awerry/blob/main/backgraund.jpg" />
 
 ### Меня зовут Дима, я QA Инженер!
 - 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.</br>

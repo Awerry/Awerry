@@ -102,7 +102,7 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="" /></td>
-    <td><img width="300" src="" /></td>
+    <td><img width="300" src="https://github.com/Awerry/Awerry/blob/main/Certificate(rus).png" /></td>
+    <td><img width="300" src="https://github.com/Awerry/Awerry/blob/main/Certificate(rus)middle.png" /></td>
   </tr>
 </table>
